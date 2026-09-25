@@ -4,7 +4,7 @@
 
 ## Font
 
-The font is provided in OpenType (`.otf`) format.
+The font is provided in TrueType (`.ttf`) format.
 
 ### Included
 
